@@ -1,0 +1,29 @@
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.dll
+*.lib
+*.a
+
+# Build folders
+build/
+Debug/
+Release/
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Generated files
+scan_results.txt
+
+# Log files
+*.log
+*.tmp
